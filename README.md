@@ -171,7 +171,6 @@ The following summaries provide quick reference to the vendor-provided PDF speci
 - **Model**: Predator Tamp Print & Apply, Right-Hand configuration
 - **Print Engine**: ZE521-6 (6-inch width, 203 DPI)
 - **Label Size**: 6.00" x 4.00" (landscape orientation)
-- **Price**: $31,631.61 total system
 - **Key Features**: Electric tamp (48" stroke), Product trigger assembly, Tower lamp, Mounting stand
 - **Electrical**: 120 VAC @ 5.0 amps
 - **Protocols**: Built-in Ethernet I/P or Modbus TCP
