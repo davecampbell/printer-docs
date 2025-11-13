@@ -1,0 +1,17 @@
+# Exclude Obsidian config
+  .obsidian/
+
+  # Exclude everything by default
+  *
+
+  # Then explicitly include markdown and PDFs
+  !*.md
+  !*.pdf
+  !.gitignore
+
+  # Include files in subdirectories
+  !*/
+  !*/*.md
+  !*/*.pdf
+  !*/*/*.md
+  !*/*/*.pdf
